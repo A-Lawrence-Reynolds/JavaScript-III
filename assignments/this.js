@@ -4,7 +4,7 @@
 * 1. 
 Window binding, "THIS" is references the window/global .
 * 2. 
-Implicit binding, only works with objects that have methods on them.
+Implicit binding, when a function is invoked it looks to the left of the dot for the reference
 * 3. 
 New bining, constructs a new object and "this" references it
 * 4. 
